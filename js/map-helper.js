@@ -25,7 +25,7 @@
 
                 // Let's also add a marker while we're at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(40.6700, -73.9400),
+                    position: new google.maps.LatLng(35.172903, 129.127721),
                     map: map,
                     title: 'Sikonic'
                 });
